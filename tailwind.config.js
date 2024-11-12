@@ -10,6 +10,10 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        glass:"rgba(255, 255, 255, 0.2)",
+      },
+      fontFamily: {
+        century:['var(--font-geist-century)']
       },
     },
   },

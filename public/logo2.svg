@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 204.24 261.27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <ellipse class="cls-1" cx="101.51" cy="130.64" rx="1.37" ry="130.14"/>
+    <path class="cls-1" d="m.5,12.54c0,151.11,20.55,228.77,20.55,228.77H.5V12.54Z"/>
+    <path class="cls-1" d="m161.27,121.48c41.79-1.75,42.47-105.23,42.47-105.23l-.69,105.23h-41.78Z"/>
+    <path class="cls-1" d="m161.27,137.47c41.79,1.73,42.47,103.84,42.47,103.84l-.69-103.84h-41.78Z"/>
+    <rect class="cls-1" x="32.34" y="123.81" width="38.51" height="13.66"/>
+  </g>
+</svg>
