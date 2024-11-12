@@ -2,7 +2,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 
 const geistMono = localFont({
-  src: "./fonts/Gothic.ttf",
+  src: "./fonts/CenturyGothic.ttf",
   variable: "--font-geist-century",
   weight: "100 900",
 });
