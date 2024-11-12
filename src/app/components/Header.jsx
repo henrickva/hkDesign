@@ -27,7 +27,7 @@ export default function Header(){
     return(
         <nav className="flex justify-center sticky top-0 left-0 right-0">
             
-            <div className={`container rounded-xl mx-5 mt-5 z-20 p-4 lg:p-10 lg:py-2  md:flex md:items-center md:justify-between flex justify-between ${isNavbarFixed ? 'bg-glass backdrop-blur-sm text-white' : 'bg-transparent text-pink-text'}`}>
+            <div className={`container rounded-xl mx-5 mt-5 z-20 p-4 lg:p-10 lg:py-2  md:flex md:items-center md:justify-between flex justify-between ${isNavbarFixed ? 'bg-glass backdrop-blur-sm text-white mx-5 mt-5' : 'bg-transparent text-pink-text mx-5 mt-5'}`}>
                 
             
             <Link className="flex flex-row md:flex-col items-center" href='/'>
